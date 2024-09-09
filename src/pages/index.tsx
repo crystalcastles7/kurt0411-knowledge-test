@@ -603,18 +603,6 @@ const QuizPage = () => {
     return (
         <div className="game-wrapper">
 
-            {!gameStarted &&
-                <div className="choose-language">
-                    <div className="lang-container" onClick={() => setIsEnglish(false)}>
-                        <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" alt="Turkish" />
-                        <span>Türkçe</span>
-                    </div>
-                    <div className="lang-container" onClick={() => setIsEnglish(true)}>
-                        <img src="https://flagicons.lipis.dev/flags/4x3/um.svg" alt="English" />
-                        <span>English</span>
-                    </div>
-                </div>
-            }
             {!gameStarted && !youWon && !youLost &&
                 <button onClick={() => {
                     setGameStarted(true);

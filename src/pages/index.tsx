@@ -28,26 +28,26 @@ const questionsData_info = [
     },
     {
         question: '',
+        translation: 'What is the name of the famous toy of Kurt0411?',
+        options: ['ET', 'EA', 'PT', 'FC'],
+        translationOptions: ['ET', 'EA', 'PT', 'FC'],
+        correctAnswer: 'ET',
+        value: 5
+    },
+    {
+        question: '',
+        translation: 'What is the name of the football game Kurt0411 is working on as a game developer?',
+        options: ['Fantasy Football', 'Goals', 'Poals', 'Tik'],
+        translationOptions: ['Fantasy Football', 'Goals', 'Poals', 'Tik'],
+        correctAnswer: 'Goals',
+        value: 5
+    },
+    {
+        question: '',
         translation: 'Question template',
         options: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
         translationOptions: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
         correctAnswer: 'Option 3',
-        value: 5
-    },
-    {
-        question: 'Yayınsız yaptığı ranklar sebebiyle LORD Demir_Jan tarafından sık sık şakayla karışık sorgulanan, her yıl 18 kere drama yaşanmasına konu olan izleyici kimdir?',
-        translation: 'Who is the viewer who is often jokingly interrogated by LORD Demir_Jan due to the ranks he achieved without streaming?',
-        options: ['Kicking Machine', 'RavenHaze', 'BIGB0SS', 'crystalcastlesss'],
-        translationOptions: ['Kicking Machine', 'RavenHaze', 'BIGB0SS', 'crystalcastlesss'],
-        correctAnswer: 'RavenHaze',
-        value: 5
-    },
-    {
-        question: 'Aşağıdakilerden hangisi, LORD Demir_Jan\'ın haz etmediği oyuncular arasında yer almaz?',
-        translation: 'Which of the following is not among the players LORD Demir_Jan dislikes?',
-        options: ['PlantedMedusa', 'TheMainManSWE', 'Super Akouma', 'Arslan Ash'],
-        translationOptions: ['PlantedMedusa', 'TheMainManSWE', 'Super Akouma', 'Arslan Ash'],
-        correctAnswer: 'Super Akouma',
         value: 5
     },
     {

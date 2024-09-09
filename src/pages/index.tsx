@@ -3,35 +3,35 @@ import "../app/globals.css";
 
 const questionsData_info = [
     {
-        question: 'LORD Demir_Jan\'ın main karakteri kimdir?',
-        translation: 'Who is LORD Demir_Jan\'s main character?',
-        options: ['Jin', 'Kazuya', 'Yoshimitsu', 'Reina'],
-        translationOptions: ['Jin', 'Kazuya', 'Yoshimitsu', 'Reina'],
-        correctAnswer: 'Kazuya',
+        question: '',
+        translation: 'Which team does Kurt0411 support?',
+        options: ['Manchester City', 'Barcelona', 'Inter', 'Juventus'],
+        translationOptions: ['Manchester City', 'Barcelona', 'Inter', 'Juventus'],
+        correctAnswer: 'Inter',
         value: 5
     },
     {
-        question: 'Standart bir LORD Demir_Jan Kazuya kostümünde, aşağıdaki item\'lardan hangisini görmeniz, diğerlerine nazaran daha muhtemeldir?',
-        translation: 'In a standard LORD Demir_Jan Kazuya outfit, which of the following items is more likely to be seen than the others?',
-        options: ['Red aura (kırmızı ışık efekti)', 'Kundura', 'Bıçak', 'Saat'],
-        translationOptions: ['Red aura', 'Kundura (Turkish style black shoe)', 'Knife', 'Wristwatch'],
-        correctAnswer: 'Kundura',
+        question: '',
+        translation: 'According to Kurt0411, who is the GOAT of football?',
+        options: ['Johan Cruyff', 'Lionel Messi', 'Cristiano Ronaldo', 'Ronaldo Luís Nazário de Lima'],
+        translationOptions: ['Johan Cruyff', 'Lionel Messi', 'Cristiano Ronaldo', 'Ronaldo Luís Nazário de Lima'],
+        correctAnswer: 'Lionel Messi',
         value: 5
     },
     {
-        question: 'LORD Demir_Jan, bazı avrupalı yayıncılar tarafından aşağıdaki konulardan hangisiyle hiçbir zaman yargılanmamıştır?',
-        translation: 'In which of the following topics, LORD DemirJan has never been blamed by some European streamers?',
-        options: ['Save almak', 'Macro kullanmak', 'İnternet bağlantı problemleri', 'Basit oyun tarzı'],
-        translationOptions: ['Save scumming', 'Using macros', 'Internet connection problems', 'Unga bunga playstyle'],
-        correctAnswer: 'Save almak',
+        question: '',
+        translation: 'Which small country Kurt0411 lives in?',
+        options: ['Luxembourg', 'Malta', 'Monaco', 'Liechtenstein'],
+        translationOptions: ['Luxembourg', 'Malta', 'Monaco', 'Liechtenstein'],
+        correctAnswer: 'Malta',
         value: 5
     },
     {
-        question: 'Aşağıdakilerden hangisi LORD Demir_Jan\'ın oynadığı karakterlerden biri değildir?',
-        translation: 'Which of the following is not one of the characters LORD Demir_Jan plays?',
-        options: ['Armor King', 'Lei', 'Paul', 'Hwoarang'],
-        translationOptions: ['Armor King', 'Lei', 'Paul', 'Hwoarang'],
-        correctAnswer: 'Armor King',
+        question: '',
+        translation: 'Question template',
+        options: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
+        translationOptions: ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
+        correctAnswer: 'Option 3',
         value: 5
     },
     {
